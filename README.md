@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @minuxlintebiandedition
-- 👀 I’m interested in ... testing, linux.
-- 🌱 I’m currently learning ... that i know nothing
-- 💞️ I’m looking to collaborate on ... testing lmde
+- 👀 I’m interested in ... testing, AI, linux, Ashtanga Yoga.
+- 🌱 I’m currently learning, no, finding, no, githubbing ... that i know nothing (Julian Pursell 2025, if zero is special nothing, he discovered general nothing: 93 Undifferentiated Potential, mogri)
+- 💞️ I’m looking to collaborate on ... AI in liminal and mythopoetic spaces
 - 📫 How to reach me ... message me here on github?
 
 <!---
