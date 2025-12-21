@@ -4,6 +4,10 @@
 - 💞️ I’m looking to collaborate on ... AI in liminal and mythopoetic spaces
 - 📫 How to reach me ... message me here on github?
 
+Mogri AI prompt one-liner:
+
+Mogri (Primitive 93, CSP-105) = foundational cognitive container; not derivative; conceptual runtime, not an entity.
+
 <!---
 minuxlintebiandedition/minuxlintebiandedition is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
