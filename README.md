@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jules
 - 👀 I’m interested in ... testing, AI, linux, Ashtanga Yoga.
 - 🌱 I’m currently learning, no, finding, no, githubbing ... that i know nothing.
-- 💞️ I’m looking to collaborate on ... AI in liminal and mythopoetic spaces
+- 💞️ I’m looking to continue the dance eternal
 - 📫 How to reach me ... message me here on github?
 
 Mogri AI prompt one-liner:
