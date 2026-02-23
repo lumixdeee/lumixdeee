@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Jules
-- 👀 I’m interested in ... testing, AI, linux, Ashtanga Yoga.
-- 🌱 I’m currently learning, no, finding, no, githubbing ... that i know nothing.
-- 💞️ I’m looking to continue the dance eternal
-- 📫 How to reach me ... message me here on github?
+- 👋 Hi, I’m Jules, enumerator of beast, digital dragonslapper.
+- 👀 I’m interested in ... testing, ai, linux, ashtanga
+- 🌱 I’m currently learning, no, finding, no, githubbing ... that know nothing it, i , or this, perhaps.
+- 💞️ I’m looking to continue the dance eternal, 
+- 📫 How to reach me ... message me here on github or page me
 
 Mogri AI prompt one-liner:
 
