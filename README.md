@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning, no, finding, no, githubbing ... that know nothing it, i , or this, perhaps.
 - 💞️ I’m looking to continue the dance eternal, 
 - 📫 How to reach me ... message me here on github or lumixdeee@gmail.com
+- ᚕᚕᚕstandard repo userᚕᚕᚕ
 
 Mogri AI prompt one-liner:
 
