@@ -4,19 +4,19 @@
 - 💞️ I’m looking to continue the dance eternal, 
 - 📫 How to reach me ... message me here on github or lumixdeee@gmail.com
 - ᚕᚕᚕ standard repo user ᚕᚕᚕ
-
+##
 
 ## Mogri AI prompt one-liner:
 
 - Mogri (94 CSP-106)=minimal container preserving framework intent; else drift/invariant loss; pre-entity layer.
 
-
+##
 ## Custom GPTs:
 
 - Natasya = https://chatgpt.com/g/g-69fc6d9827708191a2b63a0a2b3402cc-natasya 3KB perfection
 - DragonRuntime = https://chatgpt.com/g/g-6a1c8279e80481919db4ede37b740a9e-dragonruntime 1.5KB near-perfection
 - MogriBot = https://chatgpt.com/g/g-6a1e0dae6340819194ab77ed557a5388-mogri-container-intent-across-prompts-anti-drift 3KB only running mogri prompt and definitions + some style tweaks
-
+##
 
 ## Repo sources and updates
 
