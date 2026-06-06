@@ -20,6 +20,10 @@
 - Ashtanga Yoga Teacher GPT = https://chatgpt.com/g/g-6a211bb4ed1c8191aee75a93fcf56dd6-ashtanga-yoga-teacher-gpt
 - Anti-Drift GPT = https://chatgpt.com/g/g-6a216a90b9608191b4b4f71f1b6bdf40-anti-drift-gpt
 - NakedGPT = https://chatgpt.com/g/g-6a1ebd6b4554819180e6a22212b01253-naked-gpt-bare-stock-empty-nude-null-neutral 0KB
+- AmphibiBot = https://chatgpt.com/g/g-6a22f1f2fd20819195670b66a27dbb9f-amphibibot-ultra-low-tack-high-goss-mind-funk-tbh
+- System_Witch Writing Assistant = https://chatgpt.com/g/g-6a21ac5db1bc81919c1e1b3b7210e55a-system-witch-writing-assistant
+- Lexifluff = https://chatgpt.com/g/g-6a22bdcc7418819190bb27bcd7dfe2ea-lexifluff-language-repair-service-3
+- Naked GPT after enlightenment = https://chatgpt.com/g/g-6a23c379a0708191b28570b9f500cc18-naked-gpt-after-enlightenment
 ##
 
 ## Repo sources and updates
