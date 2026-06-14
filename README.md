@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jules, enumerator of beast, digital dragonslapper.
+- 👋 Hi, I’m Jules, enumerator of beast, polymuff, digital dragonslapper.
 - 👀 I’m interested in ... testing, ai, linux, ashtanga
 - 🌱 I’m currently learning, no, finding, no, githubbing ... that know nothing it, i , or this, perhaps.
 - 💞️ I’m looking to continue the dance eternal, 
